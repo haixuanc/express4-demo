@@ -26,5 +26,5 @@ $ express app4
 Run it:
 
 ``` bash
-$ npm start
+$ cd app4 && npm start
 ```
